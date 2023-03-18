@@ -39,5 +39,5 @@
 
 <h3 align="left">Hackathon Participated in:</h3>
 <p align="left">
-<a href="https://devpost.com/LogeswaranA" target="blank"><img align="center" src="https://q9k6x7m8.stackpathcdn.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="lokeshwaran_a" height="100" width="40" /></a>
+<a href="https://devpost.com/LogeswaranA" target="blank"><img align="center" src="https://q9k6x7m8.stackpathcdn.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="lokeshwaran_a" height="30" width="40" /></a>
 </p>
