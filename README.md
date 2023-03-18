@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LogeswaranA](https://github.com/LogeswaranA)
 
+- 💬 Ask me about **Blockchain, NFT, Decentralized Oracle, Defi, Staking, Yield Farming, Crypto Exchange, Swap, Bridges, Private Blockchain**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lokeshwaran_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokeshwaran_a" height="30" width="40" /></a>
