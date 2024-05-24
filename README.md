@@ -13,7 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LogeswaranA](https://github.com/LogeswaranA)
 
-- 💬 Ask me about **Blockchain, NFT, Decentralized Oracle, Defi, Staking, Yield Farming, Crypto Exchange, Swap, Bridges, Private Blockchain**
+- 💬 Ask me about
+  -- **Blockchain, NFT, Decentralized Oracle, Defi, Staking, Yield Farming, Crypto Exchange, Swap, Bridges, Private Blockchain**
+  -- **Artificial Intelligence: Machine Learning(using AWS Services), Deep Learning, Custom Algorithm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
