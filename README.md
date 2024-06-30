@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lokeshwaran_a" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshwaran_a?logo=twitter&style=for-the-badge" alt="lokeshwaran_a" /></a> </p>
 
-- 🔭 I’m currently working on [Decentralized Oracle on XDC Network](https://www.goplugin.co)
+- 🔭 Expertise in [Decentralized Oracle on XDC Network](https://www.goplugin.co)
 -- Defi, NFT, Yield Farming, Crypto Exchange, Swap, Bridges, Hyperledger Fabric
 -- Blockchain as a Service Platform
 
@@ -16,6 +16,7 @@
 - 💬 Ask me about
   -- **Blockchain, NFT, Decentralized Oracle, Defi, Staking, Yield Farming, Crypto Exchange, Swap, Bridges, Private Blockchain**
   -- **Artificial Intelligence: Machine Learning(using AWS Services), Deep Learning, Custom Algorithm
+  -- Data Engineering - Custom Data Pipeline from scratch & AWS Services
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
