@@ -15,6 +15,7 @@
 
 - 💬 Ask me about
   -- **Blockchain, NFT, Decentralized Oracle, Defi, Staking, Yield Farming, Crypto Exchange, Swap, Bridges, Private Blockchain**
+  -- Agentic AI: Langgraph, Lanchain, Agno, Core Python, N8N Labs, RAG, STM, LTM, Mem0, ZepAI, Conversational Agents, Multi-Agent Flow
   -- **Artificial Intelligence: Machine Learning(using AWS Services), Deep Learning, Custom Algorithm
   -- Data Engineering - Custom Data Pipeline from scratch & AWS Services
 
